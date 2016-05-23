@@ -5,7 +5,7 @@
     "location": {
       "type": "string",
       "metadata": {
-        "description": "Location to create the VM in"
+        "description": "Location to create the VM in ie: for West-Europe: westeurope"
       }
     },
     "osDiskVhdUri": {
